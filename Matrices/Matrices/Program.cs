@@ -12,10 +12,6 @@ namespace Matrices
             double[,] A = { { 2, 3, -1 }, { 4, 4, -3 }, { -2, 3, -1 } };
             double[] B = { 5, 3, 1 };
 
-            //Probleme trouver sur internet
-            //double[,] A = { { 2, 1, -4 }, {3 , 3, -5 }, { 4, 5, -2 } };
-            //double[] B = { 8, 14, 16};
-
             Console.WriteLine("La matrice avant changement: ");
             Input.OutputMatrice(A);
 
